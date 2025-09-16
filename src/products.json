@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Sneakers ultra confort",
+    "description": "Des baskets légères et respirantes, parfaites pour le quotidien.",
+    "price": 59.99,
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/821ddbe/2147483647/strip/true/crop/6122x4081+0+1/resize/1440x960!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9b%2F7e%2F1f266c44478083aee69c36942a1d%2F1351750-fi-sneaker-buyer-coolkicks-jlc-16180-017.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sac à dos solide",
+    "description": "Sac à dos résistant à l’eau, idéal pour l’école ou les voyages.",
+    "price": 39.99,
+    "image": "https://via.placeholder.com/200x150?text=Backpack"
+  },
+  {
+    "id": 3,
+    "name": "Casquette stylée",
+    "description": "Une casquette moderne qui protège du soleil avec classe.",
+    "price": 19.99,
+    "image": "https://via.placeholder.com/200x150?text=Cap"
+  },
+  {
+    "id": 4,
+    "name": "Montre connectée",
+    "description": "Suivi de la santé, notifications et autonomie de 7 jours.",
+    "price": 129.99,
+    "image": "https://via.placeholder.com/200x150?text=Smartwatch"
+  },
+  {
+    "id": 5,
+    "name": "T-shirt en coton bio",
+    "description": "Confort maximal, fabriqué en coton 100% biologique.",
+    "price": 24.99,
+    "image": "https://via.placeholder.com/200x150?text=T-Shirt"
+  },
+  {
+    "id": 6,
+    "name": "Écouteurs sans fil",
+    "description": "Bluetooth 5.0, réduction de bruit et 20h d’autonomie.",
+    "price": 79.99,
+    "image": "https://via.placeholder.com/200x150?text=Earbuds"
+  }
+]
