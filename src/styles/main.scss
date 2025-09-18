@@ -1,0 +1,85 @@
+@import './variables';
+@import './mixins';
+@import './resets';
+@import './globals';
+
+.logo{
+    height: 150px;
+}
+
+.navbar{
+    width: 500px;
+    margin: $spacing-sm;
+    @include flex-center;
+}
+
+.title{
+    font-family: "Electrolize",sans-serif;
+    color: $title ;
+}
+
+.search-btn{
+    width: fit-content;
+    @include button($background,$text);
+}
+
+.swp{
+    width: 100%;
+}
+
+.swp img{
+    max-width: 100%;
+    max-height: 600px;
+}
+
+.swp button{
+    @include button($accent,white);
+}
+
+.link-img{
+    display: block;
+    height: fit-content;
+    width: fit-content;
+    z-index: 2;
+}
+
+.slide-item{
+    @include flex-center;
+    position: relative;
+    padding-block: 50px;
+
+    &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.4);
+    z-index: 0;
+  }
+}
+
+.slide-item:hover .slide-text{
+    height: 50%;
+    padding: 30px 10px 10px 10px;
+    overflow: visible;
+}
+
+.slide-text{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    border-radius: 0% 100% 0% 0%;
+    background: linear-gradient(0deg,white,transparent);
+    overflow: hidden;
+    transition: height 1s ease;
+    transition-delay: 500ms;
+    z-index: 3;
+}
+
+.slide-text h2{
+    font-size: 4em;
+    font-family: "Electrolize",sans-serif;
+    color: white;
+}
+

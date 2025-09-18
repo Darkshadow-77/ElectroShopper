@@ -3,18 +3,12 @@ import Home from "./pages/Home";
 import Products from "./pages/Products";
 import Cart from "./pages/Cart";
 import Checkout from "./pages/Checkout";
+import Header from "./components/MyHeader";
 
 function App() {
   return (
     <BrowserRouter>
-      {/* Menu de navigation */}
-      <nav style={{ marginBottom: "20px" }}>
-        <Link to="/">Accueil</Link> |{" "}
-        <Link to="/products">Produits</Link> |{" "}
-        <Link to="/cart">Panier</Link> |{" "}
-        <Link to="/checkout">Paiement</Link>
-      </nav>
-
+      <Header/>
       {/* Les routes */}
       <Routes>
         <Route path="/" element={<Home />} />

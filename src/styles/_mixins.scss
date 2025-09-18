@@ -1,0 +1,19 @@
+@mixin flex-center($gap: 10px) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: $gap;
+}
+
+@mixin button($bg, $color) {
+  background-color: $bg;
+  color: $color;
+  padding: $spacing-sm $spacing-md;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+
+  &:hover {
+    opacity: 0.9;
+  }
+}

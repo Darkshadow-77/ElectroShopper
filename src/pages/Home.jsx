@@ -1,3 +1,6 @@
+import MySlider from "../components/MySlider"
 export default function Home() {
-  return <h1>Bienvenue sur mon shop 🛒</h1>;
+  return (
+    <MySlider />
+  )
 }
