@@ -7,10 +7,59 @@ header{
     justify-content: space-around;
     align-items: center;
     gap: $spacing-md;
+    background-color: $extrems;
 }
 
 a{
-    color: $text;
+    color: $indarktext;
     text-decoration: none;
     font-size: larger;
 }
+
+
+footer {
+  background: $extrems;
+  color: $indarktext;
+  @include article-grid(200px,1fr);
+  @include flex-center;
+  justify-content: space-around;
+
+  a {
+    color: $indarktext;
+    text-decoration: none;
+
+    &:hover {
+      color: $accent;
+    }
+  }
+
+  .footer-section {
+    h3, h4 {
+      margin-bottom: $spacing-md;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+
+      li {
+        margin: 8px 0;
+      }
+    }
+  }
+
+  .social-icons {
+    margin-top: $spacing-sm;
+
+    a {
+      font-size: 20px;
+      margin: 0 10px;
+      transition: color 0.3s ease;
+
+      &:hover {
+        color: $accent;
+      }
+    }
+  }
+}
+

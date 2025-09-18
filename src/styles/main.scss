@@ -21,6 +21,10 @@
 .search-btn{
     width: fit-content;
     @include button($background,$text);
+
+    &:hover{
+        background-color: $accent;
+    }
 }
 
 .swp{
@@ -80,6 +84,19 @@
 .slide-text h2{
     font-size: 4em;
     font-family: "Electrolize",sans-serif;
-    color: white;
+    color: $text;
+}
+
+/*articles and their containers*/
+
+.prd-box{
+    @include article-grid(300px,1fr);
+
+}
+
+.ftr-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
 }
 

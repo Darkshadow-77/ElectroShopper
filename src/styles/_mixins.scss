@@ -17,3 +17,9 @@
     opacity: 0.9;
   }
 }
+
+@mixin article-grid($w,$h){
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax($w,$h));
+    gap: 20px;
+}

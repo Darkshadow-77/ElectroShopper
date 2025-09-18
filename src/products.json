@@ -4,41 +4,49 @@
     "name": "Sneakers ultra confort",
     "description": "Des baskets légères et respirantes, parfaites pour le quotidien.",
     "price": 59.99,
-    "image": "https://ca-times.brightspotcdn.com/dims4/default/821ddbe/2147483647/strip/true/crop/6122x4081+0+1/resize/1440x960!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9b%2F7e%2F1f266c44478083aee69c36942a1d%2F1351750-fi-sneaker-buyer-coolkicks-jlc-16180-017.jpg"
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/821ddbe/2147483647/strip/true/crop/6122x4081+0+1/resize/1440x960!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9b%2F7e%2F1f266c44478083aee69c36942a1d%2F1351750-fi-sneaker-buyer-coolkicks-jlc-16180-017.jpg",
+    "new": true
   },
   {
     "id": 2,
     "name": "Sac à dos solide",
     "description": "Sac à dos résistant à l’eau, idéal pour l’école ou les voyages.",
     "price": 39.99,
-    "image": "https://imgs.search.brave.com/dw9NuXSihBGVm2vVh_HSG2WQIICTpC7WNMBEpYsCPGE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zYWMt/YS1kb3MtZnJhbmNl/LmZyL2Nkbi9zaG9w/L2ZpbGVzL3NhYy1h/LWRvcy1jb2xsZWdl/LW11bHRpcG9jaGVz/LW5vaXItb3Jhbmdl/LTg4Ni53ZWJwP2Ny/b3A9Y2VudGVyJmhl/aWdodD04MDAmdj0x/NzU3NDE1MTQ4Jndp/ZHRoPTgwMA"
+    "image": "https://imgs.search.brave.com/dw9NuXSihBGVm2vVh_HSG2WQIICTpC7WNMBEpYsCPGE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zYWMt/YS1kb3MtZnJhbmNl/LmZyL2Nkbi9zaG9w/L2ZpbGVzL3NhYy1h/LWRvcy1jb2xsZWdl/LW11bHRpcG9jaGVz/LW5vaXItb3Jhbmdl/LTg4Ni53ZWJwP2Ny/b3A9Y2VudGVyJmhl/aWdodD04MDAmdj0x/NzU3NDE1MTQ4Jndp/ZHRoPTgwMA",
+    "new": false
   },
   {
     "id": 3,
     "name": "Casquette stylée",
     "description": "Une casquette moderne qui protège du soleil avec classe.",
     "price": 19.99,
-    "image": "https://imgs.search.brave.com/uvYa2cEWbNv_jMgt0KnxNINVXt9LZ3kdT4nmAeXzrCI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuY2hhcGVsbGVy/aWUtdHJhY2xldC5j/b20vOTUyNjctaG9t/ZV9kZWZhdWx0L2Nh/c3F1ZXR0ZS1iYXNl/YmFsbC1wYWlsbGUt/YXZlYy12aXNpZXJl/LWNvdG9uLXRyYWNs/ZXQuanBn"
+    "image": "https://imgs.search.brave.com/uvYa2cEWbNv_jMgt0KnxNINVXt9LZ3kdT4nmAeXzrCI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuY2hhcGVsbGVy/aWUtdHJhY2xldC5j/b20vOTUyNjctaG9t/ZV9kZWZhdWx0L2Nh/c3F1ZXR0ZS1iYXNl/YmFsbC1wYWlsbGUt/YXZlYy12aXNpZXJl/LWNvdG9uLXRyYWNs/ZXQuanBn",
+    "new": true
   },
   {
     "id": 4,
     "name": "Montre connectée",
     "description": "Suivi de la santé, notifications et autonomie de 7 jours.",
     "price": 129.99,
-    "image": "https://imgs.search.brave.com/dpTRZRFmbt9aNe-ugms7n2iVJOnkpN7uRnVJzXk4iEU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFaMkdVTmhLNEwu/anBn"
+    "image": "https://imgs.search.brave.com/dpTRZRFmbt9aNe-ugms7n2iVJOnkpN7uRnVJzXk4iEU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFaMkdVTmhLNEwu/anBn",
+    "new": false
+  
   },
   {
     "id": 5,
     "name": "T-shirt en coton bio",
     "description": "Confort maximal, fabriqué en coton 100% biologique.",
     "price": 24.99,
-    "image": "https://imgs.search.brave.com/YC6Y7aCN_kZ6-gmkKvUooCj66P9v8rTW-KFX73maDRc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bGFyZWRvdXRlLmNv/bS9jZG4tY2dpL2lt/YWdlL3dpZHRoPTQw/MCxoZWlnaHQ9NDAw/LGZpdD1wYWQsZHBy/PTEvcHJvZHVjdHMv/Yy84L2YvYzhmNjUz/OTJmNjg5Zjg1YzJh/Mjc0MDU0MjVjNGE4/ZTcuanBn"
+    "image": "https://imgs.search.brave.com/YC6Y7aCN_kZ6-gmkKvUooCj66P9v8rTW-KFX73maDRc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bGFyZWRvdXRlLmNv/bS9jZG4tY2dpL2lt/YWdlL3dpZHRoPTQw/MCxoZWlnaHQ9NDAw/LGZpdD1wYWQsZHBy/PTEvcHJvZHVjdHMv/Yy84L2YvYzhmNjUz/OTJmNjg5Zjg1YzJh/Mjc0MDU0MjVjNGE4/ZTcuanBn",
+    "new": true
+  
   },
   {
     "id": 6,
     "name": "Écouteurs sans fil",
     "description": "Bluetooth 5.0, réduction de bruit et 20h d’autonomie.",
     "price": 79.99,
-    "image": "https://imgs.search.brave.com/eH7ndjtQXWrBcScOKZKtTGtfm-pPVuKTuI2p7c1IBTo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHNkLWdyYXR1aXQv/ZWNvdXRldXJzLXNh/bnMtZmlsLWRhbnMt/Ym9pdGllci1jaGFy/Z2UtZGVzaWduLWVs/ZWdhbnQtdGVjaG5v/bG9naWUtbW9kZXJu/ZV84NDQ0My00MzUz/OC5qcGc_c2VtdD1h/aXNfaHlicmlkJnc9/NzQw"
+    "image": "https://imgs.search.brave.com/eH7ndjtQXWrBcScOKZKtTGtfm-pPVuKTuI2p7c1IBTo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHNkLWdyYXR1aXQv/ZWNvdXRldXJzLXNh/bnMtZmlsLWRhbnMt/Ym9pdGllci1jaGFy/Z2UtZGVzaWduLWVs/ZWdhbnQtdGVjaG5v/bG9naWUtbW9kZXJu/ZV84NDQ0My00MzUz/OC5qcGc_c2VtdD1h/aXNfaHlicmlkJnc9/NzQw",
+    "new": false
   }
 ]
